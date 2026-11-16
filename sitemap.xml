@@ -3,7 +3,25 @@
   <url>
     <loc>https://stocks.nexusglobalit.org/</loc>
     <lastmod>2026-11-15</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://stocks.nexusglobalit.org/freelancer-export-tax-calculator/</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://stocks.nexusglobalit.org/gold-tola-price-calculator/</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://stocks.nexusglobalit.org/about/</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://stocks.nexusglobalit.org/contact/</loc>
+    <lastmod>2026-11-15</lastmod>
+  </url>
+  <url>
+    <loc>https://stocks.nexusglobalit.org/privacy-policy/</loc>
+    <lastmod>2026-11-15</lastmod>
   </url>
 </urlset>
